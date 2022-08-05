@@ -1,4 +1,8 @@
-Hello Thomas-Thank you for taking our web developer assessment. To complete the assessment, you will take what is provided and create a simple product web page that uses React to produce the view and Redux to manage the data.  It should take approximately 2 hours to complete a typical solution, we look forward to reviewing your completed project shortly! 
+Website Hosted at: https://stacklineassessment-thomas.netlify.app/
+
+Hello Thomas-
+
+Thank you for taking our web developer assessment. To complete the assessment, you will take what is provided and create a simple product web page that uses React to produce the view and Redux to manage the data.  It should take approximately 2 hours to complete a typical solution, we look forward to reviewing your completed project shortly! 
 
  Resources to get started (attached via email):
 1.	A JSON file to be used as the data source to populate the web page
